@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexander-b-wolke
+- 👀 I’m interested in rugby, AI, olympic weightlifting, and reading. 
+- 🌱 I’m currently learning python. just started to learn.
